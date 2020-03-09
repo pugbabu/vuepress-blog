@@ -72,7 +72,7 @@ module.exports = {
     "blogConfig": {
       "category": {
         "location": 2,
-        "text": "分类"
+        "text": "Category"
       },
       "tag": {
         "location": 3,
@@ -106,5 +106,5 @@ module.exports = {
   "markdown": {
     "lineNumbers": true
   },
-  "base": "./"
+  "base": "/vuepress-blog/"
 }
