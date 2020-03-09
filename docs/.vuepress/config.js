@@ -105,5 +105,6 @@ module.exports = {
   },
   "markdown": {
     "lineNumbers": true
-  }
+  },
+  "base": "./"
 }
