@@ -1,6 +1,6 @@
 module.exports = {
   "title": "天龙巴布的博客",
-  "description": "技术的积累，来自于日常的记录",
+  "description": "不积跬步无以至千里",
   "dest": "public",
   "head": [
     [
