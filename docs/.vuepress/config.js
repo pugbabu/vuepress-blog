@@ -35,36 +35,36 @@ module.exports = {
         "text": "Contact",
         "icon": "reco-message",
         "items": [
-          {
-            "text": "NPM",
-            "link": "https://www.npmjs.com/~reco_luan",
-            "icon": "reco-npm"
-          },
+          // {
+          //   "text": "NPM",
+          //   "link": "https://www.npmjs.com/~reco_luan",
+          //   "icon": "reco-npm"
+          // },
           {
             "text": "GitHub",
-            "link": "https://github.com/recoluan",
+            "link": "https://github.com/pugbabu",
             "icon": "reco-github"
           },
-          {
-            "text": "简书",
-            "link": "https://www.jianshu.com/u/cd674a19515e",
-            "icon": "reco-jianshu"
-          },
-          {
-            "text": "CSDN",
-            "link": "https://blog.csdn.net/recoluan",
-            "icon": "reco-csdn"
-          },
-          {
-            "text": "博客圆",
-            "link": "https://www.cnblogs.com/luanhewei/",
-            "icon": "reco-bokeyuan"
-          },
-          {
-            "text": "WeChat",
-            "link": "https://mp.weixin.qq.com/s/mXFqeUTegdvPliXknAAG_A",
-            "icon": "reco-wechat"
-          }
+          // {
+          //   "text": "简书",
+          //   "link": "https://www.jianshu.com/u/cd674a19515e",
+          //   "icon": "reco-jianshu"
+          // },
+          // {
+          //   "text": "CSDN",
+          //   "link": "https://blog.csdn.net/recoluan",
+          //   "icon": "reco-csdn"
+          // },
+          // {
+          //   "text": "博客圆",
+          //   "link": "https://www.cnblogs.com/luanhewei/",
+          //   "icon": "reco-bokeyuan"
+          // },
+          // {
+          //   "text": "WeChat",
+          //   "link": "https://mp.weixin.qq.com/s/mXFqeUTegdvPliXknAAG_A",
+          //   "icon": "reco-wechat"
+          // }
         ]
       }
     ],
@@ -81,10 +81,10 @@ module.exports = {
     },
     "friendLink": [
       {
-        "title": "午后南杂",
-        "desc": "Enjoy when you can, and endure when you must.",
-        "email": "1156743527@qq.com",
-        "link": "https://www.recoluan.com"
+        "title": "Vue.js",
+        "desc": "渐进式JavaScript框架",
+        "email": "243931551@qq.com",
+        "link": "https://cn.vuejs.org/"
       },
       {
         "title": "vuepress-theme-reco",
@@ -100,7 +100,7 @@ module.exports = {
     "lastUpdated": "Last Updated",
     "author": "pugbabu",
     "authorAvatar": "/avatar.png",
-    "record": "xxxx",
+    "record": "天龙巴布",
     "startYear": "2017"
   },
   "markdown": {
